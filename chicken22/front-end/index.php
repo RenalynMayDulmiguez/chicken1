@@ -21,7 +21,7 @@ include './shared/head.php';
             <div class="home-detail p-top-left home-p-medium">
               <div>
                 <h6 class="text-danger mb-2 fw-bold">Fresh & Delicious</h6>
-                <h2 class="theme-color fw-bold">Fresh Bread</h2>
+                <h2 class="theme-color fw-bold">Fresh</h2>
                 <p class="text-content d-md-block d-none text-white">Bento box
                   burritos
                   cherry bomb pepper dark and
